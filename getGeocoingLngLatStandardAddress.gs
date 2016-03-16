@@ -8,7 +8,7 @@
  * https://developers.google.com/maps/documentation/geocoding/ (max. 2500 geolocation requests / day; use cache service)
  *
  */
-function getGeocoingLngLatStandardAddress(textAddress, returnArrayIndex) {
+function getGeocodingLngLatStandardAddress(textAddress, returnArrayIndex) {
 
   // check variable defined and set default if not
   //textAddress = (textAddress || "U božích bojovníků 606/3, 130 00 Praha 3, Žižkov");
